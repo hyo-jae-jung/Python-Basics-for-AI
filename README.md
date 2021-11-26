@@ -9,6 +9,9 @@ New Module :
 tqdm
 time
 
+<h5>file</h5>
+binary/text
+
 
 <h3>math</h3>
 
