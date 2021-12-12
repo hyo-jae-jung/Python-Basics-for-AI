@@ -40,4 +40,4 @@ np.linalg.pinv(X) : X의 유사역행렬 or 무어 펜로즈 역행렬
 
 sympy.diff로 미분 가능
 
-그레디언트 벡터(gradient vector)
+그레디언트 벡터(gradient vector)!!
